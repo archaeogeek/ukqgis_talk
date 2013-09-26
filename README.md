@@ -1,6 +1,6 @@
-UCL2013_talk
-============
 
-My talk to UCL postgrad GIS peeps, January 2013
+ukqgis_talk
+===========
 
-See online version at http://archaeogeek.github.com/UCL2013_talk
+My talk to the UKQGIS User Group Meeting October 2013
+
